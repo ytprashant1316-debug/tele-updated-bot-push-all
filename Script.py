@@ -7,10 +7,10 @@ class script(object):
 
 📚 <u>Features:</u>  
 1️⃣ <i>Type the book name</i> (no author needed), and I'll find books for you.  
-2️⃣ <i>Access 20000+ books</i> anytime, anywhere.  
-3️⃣ <i>Request more audiobooks or books</i> by messaging @mrprashant00.  
+2️⃣ <i>Access 1M+ books</i> anytime, anywhere.  
+3️⃣ <i>Request more books</i> by messaging @bookrequest90.  
 
-⚡ <i>Powered by @freeebookspdf1</i>  
+⚡ <i>Powered by @prashantspages</i>  
 
 ✨ <i>Happy Reading!</i> ✨</b>"""
 
@@ -23,7 +23,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b><blockquote>⍟───[ ᴍʏ ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>
     
-‣ ᴍʏ Group : <a href=https://t.me/freeebookspdf1</a>
+‣ ᴍʏ Group : <a href=https://t.me/booksearcher90bot</a>
 """
 
     CLONE_ABOUT_TXT = """<b><blockquote>⍟───[ ᴍʏ ᴀʙᴏᴜᴛ ]───⍟</blockquote>
